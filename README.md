@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Linux Kernel, Math, Español
+- 🌱 I’m currently learning Remix.js, Linux Kernel, Math, Español
 - :books: I'm reading 《Operating Systems - Three Easy Pieces》 《Operating System: Principles and Practice》
