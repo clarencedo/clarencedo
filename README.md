@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Linux Kernel, Math, Español
+- 🌱 I’m currently learning Linux Kernel, Math
+- ⚡ Languages: Mandarin, English, and Spanish for verbal communication; TypeScript, Go , C#, and Python for programming
 - :books: I'm reading 《Operating Systems: Three Easy Pieces》 《Operating System: Principles and Practice》 《Democracy In America》
